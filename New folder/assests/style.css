@@ -1,0 +1,101 @@
+.left {
+    margin-top: 25px; 
+    margin-left: 180px;
+    margin-right: 0px; 
+    padding: 25px; 
+    width: 25%; 
+    float: left;
+}
+
+.right {
+    margin-top: 25px; 
+    margin-left: 0px; 
+    margin-right: 150px; 
+    margin-bottom: 25px; 
+    padding: 50px; 
+    width: 40%; 
+    float: right;
+}
+
+p {
+    font-family: sans-serif;
+}
+h1 {
+    font-size: xx-large;
+    font-family: sans-serif;
+    color: #4DB6AC;
+}
+
+h2 {
+    font-size: x-large;
+    font-family: sans-serif;
+    color: #4DB6AC;
+}
+
+h3 {
+    font-size: x-large;
+    font-family: sans-serif;
+    color: #4DB6AC;
+}
+
+h4 {
+    font-size: x-large;
+    font-family: sans-serif;
+    color: #4DB6AC;
+}
+
+h5 {
+    font-size: x-large;
+    font-family: sans-serif;
+    color: #4DB6AC;
+}
+
+.press {
+    font-family: sans-serif;
+    color: #4DB6AC;
+}
+
+.press {
+    font-size: 13px;
+    padding: 10px;
+    width: 500px;
+    font-size: 15px;  
+}
+
+.press:hover {
+    font-size: medium;
+    color: brown;
+
+}
+
+.topics {
+    font-family: sans-serif;
+    list-style: none;
+    color: #4DB6AC;
+    font-size: 13px;
+    padding: 10px;
+    width: 500px;
+    font-size: 15px;
+    }
+    
+.topics:hover {
+    font-size: medium;
+    color: brown;
+    }
+
+.black {
+    padding: 20px;
+    background: black;
+    color: white;
+    border-radius: 8px;
+    list-style-type: none;
+}
+
+.navi-topic {
+    border-top: 3px solid #1098AD;
+    border-bottom: 3px solid #1098AD;
+    background-color: #F5F5F5;
+    margin: 25px; 
+    font-size: large;
+    color:darkslategray;
+}
